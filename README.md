@@ -1,0 +1,2 @@
+# Binge-Watch-Breakdown-Analyzing-Netflix-Content-Trends
+Netflix Movie &amp; TV Show Data Analysis 🎬 A comprehensive exploratory data analysis (EDA) project on Netflix’s content catalog using Python, Pandas, and Seaborn. This project dives into patterns around genres, ratings, and content types (Movies vs. TV Shows) to extract actionable insights and provide data-driven recommendations for content strategy.
